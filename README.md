@@ -1,4 +1,4 @@
-# Classification-Model---Banking
+# Classification-Loan Modelling
 A predictive model to determine conversion of liability customers to personal loan customers
 
 Data Description:
